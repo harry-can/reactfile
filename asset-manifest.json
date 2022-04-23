@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/harry-can/reactfile/static/css/main.38be36b0.css",
+    "main.js": "/harry-can/reactfile/static/js/main.e169a9c6.js",
+    "static/js/787.83f7f509.chunk.js": "/harry-can/reactfile/static/js/787.83f7f509.chunk.js",
+    "index.html": "/harry-can/reactfile/index.html",
+    "main.38be36b0.css.map": "/harry-can/reactfile/static/css/main.38be36b0.css.map",
+    "main.e169a9c6.js.map": "/harry-can/reactfile/static/js/main.e169a9c6.js.map",
+    "787.83f7f509.chunk.js.map": "/harry-can/reactfile/static/js/787.83f7f509.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38be36b0.css",
+    "static/js/main.e169a9c6.js"
+  ]
+}
